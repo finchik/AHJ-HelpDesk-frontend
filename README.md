@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/e28hdsp6575ac6lf?svg=true)](https://ci.appveyor.com/project/finchik/ahj-helpdesk-frontend)
-[https://finchik.github.io/AHJ-HelpDesk-frontend/](https://finchik.github.io/AHJ-HelpDesk-frontend/index.html)
+
+https://finchik.github.io/AHJ-HelpDesk-frontend/index.html
 
 ### HelpDesk
 
